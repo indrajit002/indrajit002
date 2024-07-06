@@ -6,7 +6,7 @@
 my linkdin - https://www.linkedin.com/in/indrajit-barman-276486227/
 my twitter - https://x.com/indrajit_b0002
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... I am very friendly 
 
 <!---
 indrajit002/indrajit002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
