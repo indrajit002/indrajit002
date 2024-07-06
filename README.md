@@ -2,7 +2,9 @@
 - 👀 I’m interested in exploring new things
 - 🌱 I’m currently learning FULL STACK DEVOLOPMENT
 - 💞️ I’m looking to collaborate on  Live projects
-- 📫 How to reach me ...
+- 📫 How to reach me 
+my linkdin - https://www.linkedin.com/in/indrajit-barman-276486227/
+my twitter - https://x.com/indrajit_b0002
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
