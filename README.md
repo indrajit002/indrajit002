@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @indrajit002
-- 👀 I’m interested in exploring new things
+- 👋 Hi, I’m Indrajit 
+- 👀 I’m interested in exploring 
 - 🌱 I’m currently learning FULL STACK DEVOLOPMENT
 - 💞️ I’m looking to collaborate on  Live projects
 - 📫 How to reach me 
