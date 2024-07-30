@@ -5,7 +5,7 @@
 - 📫 How to reach me 
 my linkdin - https://www.linkedin.com/in/indrajit-barman-276486227/
 my twitter - https://x.com/indrajit_b0002
-- 😄 Pronouns: ... 
+- 😄 Pronouns: ...   
 - ⚡ Fun fact: ... I am very friendly 
 
 <!---
