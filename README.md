@@ -1,5 +1,10 @@
 # 💫 About Me:
-# 👋 Hi, I'm Indrajit!<br><br>🎓 **Final-year B.Tech CSE student at Aditya College of Engineering & Technology**  <br>💻 **Passionate about:**  <br>- Full Stack Web Development  <br>- Cloud (AWS)  <br>- AI/ML<br><br>I love building scalable web apps and exploring new technologies.<br><br>---<br><br>## 🛠 Top Skills & Technologies<br><br>- **Frontend:** React.js, Tailwind CSS  <br>- **Backend:** Node.js, Express.js  <br>- **Database:** MongoDB, MySQL  <br>- **Other:** AWS (EC2, S3, Lambda), Java, C++, DSA, Solana Blockchain (Devnet)  <br>- **Currently Exploring:** AI integration (Gemini API), Automation (Puppeteer)<br><br>---<br><br>## 🚀 Notable Projects<br><br>- **Full-Featured eCommerce App (MERN):**  <br>  End-to-end online store with authentication, cart, payments.<br><br>- **AI Tutor Web App:**  <br>  React + Node.js app using Gemini API for personalized tutoring.<br><br>- **T-Shirt Inventory & Distribution System:**  <br>  Backend developer role (Node.js).<br><br>- **Global Pollution Index Dashboard:**  <br>  Displays real-time data for every country.<br><br>---<br><br>## 🌐 Connect with Me<br><br>- [LinkedIn](#) <!-- Add your profile link --><br>- [Portfolio/Website](#) <!-- Add your website link --><br>- [Twitter](#) <!-- Add your Twitter link --><br><br>---<br><br>## 🎯 Fun Facts & Hobbies<br><br>- Enjoy exploring AI applications in agriculture<br>- Love reading about startups<br>- Mentor junior devs to get started in full stack development<br>
+# 👋# 💫 About Me  
+
+👋 Hi, I'm **Indrajit Barman** – a final-year **B.Tech CSE student** at Aditya College of Engineering & Technology.  
+I’m passionate about **Full Stack Web Development, AWS, AI/ML, and Blockchain**, and I love building **scalable, impactful applications** while exploring new tech.
+
+---
 
 
 ## 🌐 Socials:
