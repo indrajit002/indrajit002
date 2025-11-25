@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋# 💫 About Me  
+# 👋
 
 👋 Hi, I'm **Indrajit Barman** – a final-year **B.Tech CSE student** at Aditya College of Engineering & Technology.  
 I’m passionate about **Full Stack Web Development, AWS, AI/ML, and Blockchain**, and I love building **scalable, impactful applications** while exploring new tech.
